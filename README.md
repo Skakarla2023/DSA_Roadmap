@@ -266,7 +266,127 @@ To complete **300+ essential DSA problems** in a structured and revision-friendl
 
 ## 🙌 Connect
 
-> Built with 💻 by Satwika  
+> Built with 💻 by Satwika
+
+
+# 📅 Weekly DSA Schedule: 1-Year Plan (3 Hours/Week)
+
+Structured practice plan covering all key DSA topics with concept learning + coding. Designed for weekly 3-hour sessions.
+
+---
+
+## 📊 Month 1: Foundation (Arrays, Strings, Math)
+
+| Week | Topic      | Subtopics                      | Type           |
+| ---- | ---------- | ------------------------------ | -------------- |
+| 1    | Arrays I   | Traversal, Insertion, Deletion | Concept + Code |
+| 2    | Arrays II  | Prefix Sum, Sliding Window     | Concept + Code |
+| 3    | Strings I  | Basics, Palindrome, Reverse    | Concept + Code |
+| 4    | Strings II | Anagram, Pattern Matching      | Concept + Code |
+
+## 📊 Month 2: Sorting, Searching & Math
+
+| Week | Topic     | Subtopics                      | Type           |
+| ---- | --------- | ------------------------------ | -------------- |
+| 5    | Searching | Linear, Binary Search          | Concept + Code |
+| 6    | Sorting   | Merge, Quick, Count Sort       | Concept + Code |
+| 7    | Math I    | GCD, Prime, Modular Arithmetic | Concept + Code |
+| 8    | Math II   | Sieve, LCM, Combinatorics      | Concept + Code |
+
+## 📊 Month 3: Linked Lists
+
+| Week | Topic              | Subtopics                      | Type           |
+| ---- | ------------------ | ------------------------------ | -------------- |
+| 9    | Singly Linked List | Reversal, Middle, Detect Cycle | Concept + Code |
+| 10   | Doubly/Circular LL | Insert/Delete, Traversal       | Concept + Code |
+| 11   | LL Advanced        | Merge, Intersection, Sort      | Concept + Code |
+| 12   | LL Practice        | Mixed Problems (LC/GFG)        | Practice       |
+
+## 📊 Month 4: Stack and Queue
+
+| Week | Topic    | Subtopics                       | Type           |
+| ---- | -------- | ------------------------------- | -------------- |
+| 13   | Stack I  | Basic, NGE, Balanced Parens     | Concept + Code |
+| 14   | Stack II | Monotonic Stack, Histogram Area | Concept + Code |
+| 15   | Queue I  | Basic Queue, Circular, Priority | Concept + Code |
+| 16   | Queue II | Deque, Sliding Window           | Concept + Code |
+
+## 📊 Month 5: Trees
+
+| Week | Topic        | Subtopics                   | Type           |
+| ---- | ------------ | --------------------------- | -------------- |
+| 17   | Tree Basics  | DFS, BFS, Pre/In/Post Order | Concept + Code |
+| 18   | Binary Trees | Diameter, Height, Mirror    | Concept + Code |
+| 19   | BT Advanced  | LCA, Serialization          | Concept + Code |
+| 20   | BT Practice  | Mixed LC/GFG Tree Problems  | Practice       |
+
+## 📊 Month 6: BST + Heaps
+
+| Week | Topic    | Subtopics                         | Type           |
+| ---- | -------- | --------------------------------- | -------------- |
+| 21   | BST I    | Insert, Delete, Search            | Concept + Code |
+| 22   | BST II   | LCA, Validate, Convert BST to DLL | Concept + Code |
+| 23   | Heaps I  | Heapify, Min/Max Heap             | Concept + Code |
+| 24   | Heaps II | K Largest, Median Stream          | Concept + Code |
+
+## 📊 Month 7: Recursion & Backtracking
+
+| Week | Topic           | Subtopics                                 | Type           |
+| ---- | --------------- | ----------------------------------------- | -------------- |
+| 25   | Recursion I     | Base Case, Recursive Case, Tree Recursion | Concept + Code |
+| 26   | Recursion II    | Subsets, Permutations                     | Concept + Code |
+| 27   | Backtracking I  | N-Queens, Sudoku                          | Concept + Code |
+| 28   | Backtracking II | Rat in Maze, Word Search                  | Concept + Code |
+
+## 📊 Month 8: Greedy + Bit Manipulation
+
+| Week | Topic        | Subtopics                       | Type           |
+| ---- | ------------ | ------------------------------- | -------------- |
+| 29   | Greedy I     | Activity Select, Job Scheduling | Concept + Code |
+| 30   | Greedy II    | Huffman, Interval Merge         | Concept + Code |
+| 31   | Bit Manip I  | AND/OR/XOR, Power of 2          | Concept + Code |
+| 32   | Bit Manip II | Count Bits, XOR Pairs           | Concept + Code |
+
+## 📊 Month 9: Sliding Window + Two Pointers
+
+| Week | Topic             | Subtopics                          | Type           |
+| ---- | ----------------- | ---------------------------------- | -------------- |
+| 33   | Sliding Window I  | Max Subarray, Anagram Search       | Concept + Code |
+| 34   | Sliding Window II | Longest Unique Substring           | Concept + Code |
+| 35   | Two Pointers I    | Pair Sum, Sort Merge               | Concept + Code |
+| 36   | Two Pointers II   | Container Water, Remove Duplicates | Concept + Code |
+
+## 📊 Month 10: Hashing & Miscellaneous
+
+| Week | Topic          | Subtopics                     | Type           |
+| ---- | -------------- | ----------------------------- | -------------- |
+| 37   | Hashing I      | Frequency, HashMap            | Concept + Code |
+| 38   | Hashing II     | Subarrays, Group Anagrams     | Concept + Code |
+| 39   | Trie           | Implement Trie, Prefix Search | Concept + Code |
+| 40   | Mixed Practice | Stack, Queue, HashMap         | Practice       |
+
+## 📊 Month 11: Graphs
+
+| Week | Topic     | Subtopics                   | Type           |
+| ---- | --------- | --------------------------- | -------------- |
+| 41   | Graph I   | Adjacency List, DFS, BFS    | Concept + Code |
+| 42   | Graph II  | Cycle Detection, Components | Concept + Code |
+| 43   | Graph III | Topo Sort, Shortest Path    | Concept + Code |
+| 44   | Graph IV  | MST, Union Find, Bridges    | Concept + Code |
+
+## 📊 Month 12: DP + Revision
+
+| Week | Topic              | Subtopics                     | Type           |
+| ---- | ------------------ | ----------------------------- | -------------- |
+| 45   | DP I               | Fibonacci, 0/1 Knapsack       | Concept + Code |
+| 46   | DP II              | LCS, LIS, Edit Distance       | Concept + Code |
+| 47   | DP III             | Subset Sum, Partition         | Concept + Code |
+| 48   | DP IV              | State Compression, Grid DP    | Concept + Code |
+| 49   | Mixed Revision I   | Arrays, Strings, Linked Lists | Practice       |
+| 50   | Mixed Revision II  | Trees, Stack, Recursion       | Practice       |
+| 51   | Mixed Revision III | Graphs, Greedy, Heaps         | Practice       |
+| 52   | Final Mock         | 3–5 Real Interview Qs (Mixed) | Practice       |
+
 > [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/Skakarla2023)
 
 ---
