@@ -1,6 +1,6 @@
 # 📚  DSA Using Java Roadmap ✅
 
-> Track your DSA learning journey with this clean and structured checklist, based on Apna College Java + DSA Playlist.
+
 
 ---
 
