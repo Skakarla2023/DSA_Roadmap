@@ -30,3 +30,4 @@ This gives us a complete understanding of how the algorithm behaves, instead of 
 | **Average Case** | The **typical** time it takes for a randomly chosen input |
 | **Worst Case**   | The **slowest** the algorithm could possibly be           |
 
+
