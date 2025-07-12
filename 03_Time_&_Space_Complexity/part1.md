@@ -31,3 +31,6 @@ This gives us a complete understanding of how the algorithm behaves, instead of 
 | **Worst Case**   | The **slowest** the algorithm could possibly be           |
 
 
+- We can derive the best case and average case time complexity but we always consider the worst case time complexity,because it provides a guaranteed upper bound on an algorithm’s running time, ensuring that no matter what input is given, the algorithm will not perform worse than this bound.
+- In many real-world cases, you can’t predict the type of input the system will get. Worst-case ensures you’re prepared for the worst possible scenario.
+- 
