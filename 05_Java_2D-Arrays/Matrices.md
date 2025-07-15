@@ -15,4 +15,6 @@ datatype matrix_name[row][column]
 
 ```text
 
-size=
+size=row*column*datatype_size
+
+
