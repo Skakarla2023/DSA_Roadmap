@@ -2,6 +2,10 @@ package com.skakarla.java_Programs;
 
 import java.util.Scanner;
 
+package com.skakarla.java_Programs;
+
+import java.util.Scanner;
+
 class Main{
     public static void main(String[] args){
         
@@ -26,6 +30,28 @@ class Main{
             }
             System.out.println();
         }
+        
+        int flag=0;
+        
+        System.out.println("Enter Elements to search:");
+        int num=obj.nextInt();
+        for(int i=0;i<rows;i++){
+           for(int j=0;j<cols;j++){
+               if(matrix[i][j]==num){
+                   flag++;
+                   break;
+               }
+               
+           }
+           
+    }
+        
+     if(flag==1){
+            System.out.println("Element is found");
+        }else{
+            System.out.println("Element not found");
+        }    
+        
         
     }
 }
