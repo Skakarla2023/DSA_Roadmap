@@ -9,7 +9,7 @@ class Main{
         
         int rows=4;
         int cols=5;
-        
+         
         int[][] matrix = new int[rows][cols];
         
         System.out.println("Enter matrix elements:");
