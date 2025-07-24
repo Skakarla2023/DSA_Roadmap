@@ -1,174 +1,177 @@
-# 📚  DSA Using Java Roadmap ✅
+# 🧠 Java DSA Roadmap:
 
-
-
----
-
-## ✅ 1. Programming Basics (Java)
-- [ ] Hello World, Input/Output
-- [ ] Variables & Data Types
-- [ ] Typecasting
-- [ ] Operators
-- [ ] Conditional Statements
-- [ ] Loops (`for`, `while`, `do-while`)
-- [ ] Pattern Problems (Stars, Numbers)
+A complete roadmap to learn Data Structures and Algorithms (DSA) in Java — from fundamentals to advanced topics, with patterns and concepts that appear in interviews (including LeetCode, GFG, etc.).
 
 ---
 
-## ✅ 2. Functions & Recursion
-- [ ] Creating & Calling Functions
-- [ ] Function Overloading
-- [ ] Prime, Factorial, Sum of N
-- [ ] Recursion Basics
-- [ ] Recursive Problems (Power, GCD, Fibonacci)
+## 📘 Table of Contents
+
+1. [🔤 Basics of Java]
+2. [📦 Arrays & Strings]
+3. [📚 Recursion & Backtracking]
+4. [🔁 Searching & Sorting]
+5. [🧺 Hashing & HashMap]
+6. [🎢 Two Pointers & Sliding Window]
+7. [🧭 Stack & Queue]
+8. [🌳 Linked List]
+9. [🌲 Trees & Binary Trees]
+10. [🌐 Binary Search Trees (BST)]
+11. [📈 Heaps & PriorityQueue]
+12. [🌉 Graphs & Algorithms]
+13. [🧩 Dynamic Programming (DP)]
+14. [🧠 Greedy Algorithms]
+15. [🧰 Bit Manipulation]
+16. [🧱 Tries, Segment Trees & Others]
 
 ---
 
-## ✅ 3. Arrays
-- [ ] Array Basics
-- [ ] Linear Search
-- [ ] Binary Search
-- [ ] Max/Min Element
-- [ ] 2D Arrays
-- [ ] Matrix Transpose & Spiral Print
+## 🔤 1. Basics of Java
+- Input/Output (Scanner, BufferedReader)
+- Loops, Conditions, Operators
+- Functions and OOP (Objects, Classes, Inheritance)
+- Exception Handling
+- Arrays, Strings, Collections Overview
 
 ---
 
-## ✅ 4. Sorting Algorithms
-- [ ] Bubble Sort
-- [ ] Selection Sort
-- [ ] Insertion Sort
-- [ ] Counting Sort
+## 📦 2. Arrays & Strings
+- Basics of Arrays
+- Prefix Sum & Difference Arrays
+- Kadane's Algorithm
+- String Manipulation
+- Character Frequency
 
 ---
 
-## ✅ 5. Strings
-- [ ] String Basics & StringBuilder
-- [ ] Palindrome Check
-- [ ] String Compression
-- [ ] Anagram Check
+## 📚 3. Recursion & Backtracking
+- Basics of Recursion
+- Factorial, Fibonacci, etc.
+- Backtracking (N-Queens, Sudoku, Subsets)
 
 ---
 
-## ✅ 6. Bit Manipulation
-- [ ] Binary Representation
-- [ ] Even/Odd Check
-- [ ] Get, Set, Clear Bits
-- [ ] Count Set Bits
-- [ ] XOR & Bit Tricks
+## 🔁 4. Searching & Sorting
+- Linear & Binary Search
+- Sorting Algorithms:
+  - Bubble, Selection, Insertion
+  - Merge Sort, Quick Sort
+- Search in Rotated Sorted Array
 
 ---
 
-## ✅ 7. Object-Oriented Programming (OOP)
-- [ ] Classes & Objects
-- [ ] Constructors
-- [ ] Inheritance
-- [ ] Polymorphism
-- [ ] Encapsulation & Abstraction
-- [ ] Static, Final, Super
-- [ ] Interfaces
+## 🧺 5. Hashing & HashMap
+- HashMap, HashSet in Java
+- Frequency Count
+- Two Sum / K Sum Variants
+- Group Anagrams, Longest Subarray with Sum K
 
 ---
 
-## ✅ 8. Recursion & Backtracking
-- [ ] Recursion Tree
-- [ ] Subsets
-- [ ] Permutations
-- [ ] N-Queens
-- [ ] Sudoku Solver
-- [ ] Maze Problems
+## 🎢 6. Two Pointers & Sliding Window
+- Moving Window Problems
+- Longest Substring Without Repeating Characters
+- Minimum Window Substring
+- Trapping Rainwater
 
 ---
 
-## ✅ 9. Stack
-- [ ] Stack using Array/Linked List
-- [ ] Push, Pop, Peek
-- [ ] Next Greater Element
-- [ ] Valid Parentheses
+## 🧭 7. Stack & Queue
+- Stack (Next Greater Element, Balanced Parentheses)
+- Queue
+- Deque
+- Monotonic Stack
+- Circular Queue
 
 ---
 
-## ✅ 10. Queue
-- [ ] Queue using Array/LinkedList
-- [ ] Circular Queue
-- [ ] Deque
-- [ ] Stack using Queues / Queue using Stacks
+## 🌳 8. Linked List
+- Singly, Doubly, Circular LL
+- Middle of LL, Detect Cycle
+- Merge Two Sorted Lists
+- Reverse LL (Iterative/Recursive)
+- Palindrome Linked List
 
 ---
 
-## ✅ 11. Linked List
-- [ ] Singly Linked List
-- [ ] Doubly Linked List
-- [ ] Insert/Delete at Position
-- [ ] Reverse a Linked List
-- [ ] Detect Cycle (Floyd's Algo)
-- [ ] Merge Sort on Linked List
+## 🌲 9. Trees & Binary Trees
+- Tree Traversals (Inorder, Preorder, Postorder)
+- Level Order Traversal
+- Diameter of Binary Tree
+- Lowest Common Ancestor (LCA)
 
 ---
 
-## ✅ 12. Trees
-- [ ] Binary Tree Basics
-- [ ] Inorder, Preorder, Postorder
-- [ ] Height & Diameter
-- [ ] Count & Sum of Nodes
-- [ ] Balanced Tree
-- [ ] Lowest Common Ancestor (LCA)
-- [ ] Binary Search Tree (Insert, Delete, Search)
+## 🌐 10. Binary Search Tree
+- Insertion, Deletion, Search
+- Validate BST
+- Kth Smallest Element
+- Convert Sorted Array to BST
 
 ---
 
-## ✅ 13. Heaps & Priority Queue
-- [ ] Min Heap & Max Heap
-- [ ] Heapify
-- [ ] PriorityQueue in Java
-- [ ] Heap Sort
+## 📈 11. Heaps & PriorityQueue
+- Min Heap, Max Heap using PriorityQueue
+- Kth Largest/Smallest
+- Heapify, Heap Sort
+- Top K Frequent Elements
 
 ---
 
-## ✅ 14. Tries
-- [ ] Insert/Search Word
-- [ ] Word Break
-- [ ] Prefix Problems
+## 🌉 12. Graphs & Algorithms
+- Representation: Adjacency List/Matrix
+- DFS, BFS
+- Topological Sort
+- Dijkstra, Bellman-Ford
+- Union-Find (Disjoint Set)
+- MST: Prim's & Kruskal's Algorithm
 
 ---
 
-## ✅ 15. Graphs
-- [ ] Adjacency List / Matrix
-- [ ] DFS & BFS
-- [ ] Cycle Detection (Undirected/Directed)
-- [ ] Connected Components
-- [ ] Topological Sort
-- [ ] Dijkstra’s Algorithm
-- [ ] Bellman-Ford
-- [ ] Kruskal's & Prim’s Algorithm
-- [ ] Union-Find (DSU)
+## 🧩 13. Dynamic Programming (DP)
+- 0/1 Knapsack
+- DP on Strings (LCS, Edit Distance)
+- DP on Trees
+- DP on Grids (Unique Paths, Gold Mine)
+- Memoization vs Tabulation
 
 ---
 
-## ✅ 16. Dynamic Programming (DP)
-- [ ] Fibonacci (Memoization/Tabulation)
-- [ ] 0/1 Knapsack
-- [ ] Subset Sum
-- [ ] Longest Common Subsequence (LCS)
-- [ ] Longest Increasing Subsequence (LIS)
-- [ ] DP on Grids (Maze Paths, Min Cost)
+## 🧠 14. Greedy Algorithms
+- Activity Selection
+- Fractional Knapsack
+- Huffman Encoding
+- Minimum Platforms
 
 ---
 
-## ✅ 17. Greedy Algorithms
-- [ ] Activity Selection
-- [ ] Fractional Knapsack
-- [ ] Job Sequencing
-- [ ] Huffman Coding
+## 🧰 15. Bit Manipulation
+- XOR Basics
+- Count Set Bits
+- Power of Two
+- Bitmasking
 
 ---
 
-## ✅ 18. Optional Advanced Topics
-- [ ] Segment Trees
-- [ ] Bitmasking
-- [ ] DP Optimization
-- [ ] Advanced Tries
+## 🧱 16. Advanced Data Structures
+- Tries (Prefix Tree)
+- Segment Tree
+- Fenwick Tree (Binary Indexed Tree)
+- Suffix Arrays
+- LRU Cache using LinkedHashMap/Deque
 
 ---
 
-### 🏁 You're making great progress! Stick to the flow and you'll master DSA step-by-step 🚀
+## 📚 Resources
+- [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
+- [GeeksforGeeks DSA Sheet](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
+- [NeetCode Roadmap](https://neetcode.io/roadmap)
+- [Striver’s A2Z DSA Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+
+---
+
+## 💻 Practice Platforms
+- [LeetCode](https://leetcode.com/)
+- [GeeksforGeeks](https://practice.geeksforgeeks.org/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Codeforces](https://codeforces.com/)
+- [InterviewBit](https://www.interviewbit.com/)
