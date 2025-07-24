@@ -31,4 +31,14 @@ public class Main
     - Pascal Case:It is a general case, where the function name will be in lowercase.
   
 
-  - 
+
+## Declaring Functions in Java
+
+- The following is the syntax for declaring functions in Java
+
+```
+returnType functionname(){
+  //content of the fucntion
+}
+```
+
