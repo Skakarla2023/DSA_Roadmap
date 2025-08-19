@@ -11,7 +11,7 @@ public class String_Builder {
 
 		// set char at 0 index
 		sb.setCharAt(0, 'J');
-		System.out.println(sb);
+		System.out.println(sb);   
 
 		// insert character at particular distance
 		sb.insert(1, 'o');
