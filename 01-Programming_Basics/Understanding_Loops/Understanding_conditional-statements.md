@@ -1,6 +1,6 @@
 # 🧠 Java Basics: if, else, switch, Loops
 
-## ✅ if, else if, else
+## ✅ if, else if, else    
 
 Used to run code based on conditions.
 
