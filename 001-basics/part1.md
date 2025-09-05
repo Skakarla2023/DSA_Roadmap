@@ -5,12 +5,14 @@ A quick reference for basic Java syntax and concepts, suitable for DSA beginners
 
 ## ✨ Basic Structure
 
+```java
 public class Main {
     public static void main(String[] args) {
         // Code starts here
         System.out.println("Hello, Java!");
     }
 }
+```
 
 ---
 
